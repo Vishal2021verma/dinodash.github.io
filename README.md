@@ -7,7 +7,7 @@
 This Privacy Policy explains how Dino Dash ("the App"), a casual dinosaur running game, handles information when you play. We respect your privacy and aim to keep the game simple and enjoyable.
 
 **Developer:** Dino Dash developer  
-**Contact:** YOUR_SUPPORT_EMAIL@example.com
+**Contact:** black2020panther@gmail.com
 
 ## 2. Information We Collect
 
@@ -61,5 +61,5 @@ We may update this Privacy Policy when the App's features or data practices chan
 
 If you have questions about this Privacy Policy or Dino Dash's privacy practices, contact:
 
-**Email:** YOUR_SUPPORT_EMAIL@example.com
+**Email:** black2020panther@gmail.com
 
